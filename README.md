@@ -1,3 +1,5 @@
+![Mosaic Manufacturing Ltd.](https://raw.githubusercontent.com/MosaicManufacturing/canvas-issues/master/mosaic.png)
+
 # [CANVAS](https://canvas3d.io) Issue Tracker
 
 This is a publicly-accessible place for reporting bugs and requesting features.
